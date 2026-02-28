@@ -14,7 +14,7 @@ AI/ML Engineering Internship Tasks : DevelopersHub Corporation
 ### Task 6 – House Price Prediction
 - Built a **Linear Regression** model to predict house prices.
 - Evaluated using **MAE** and **RMSE**, visualized predictions.
-- Notebook: [Task6_HousePricePrediction.ipynb](Task6_HousePricePrediction.ipynb)
+- Notebook: [Task6_HousePricePrediction.ipynb](Task6HousePricePrediction.ipynb)
 
 
 ## Notes
